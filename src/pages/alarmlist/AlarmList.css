@@ -1,0 +1,14 @@
+.welcome-card img {
+
+    max-height: 35vh;
+
+    overflow: hidden;
+
+}
+
+.icon-big { font-size: 300%; display: block;  }
+
+.warning { color: #F5CD19;  }
+.alarm{  color: #EA4228;   }
+.trip {  color: #8d32a8;  }
+

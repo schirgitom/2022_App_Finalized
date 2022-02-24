@@ -1,0 +1,8 @@
+{
+  "name": "Home Automation",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "id": "afa9148a"
+}

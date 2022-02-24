@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "Home Automation",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}
